@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="recuperacion.MainPage"
+             Title="Registrar ">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem
+            Text="Nueva ubicación"
+            x:Name="tbiNuevaUbicacion"
+            Clicked="tbiNuevaUbicacion_Clicked"
+            />
+        <ToolbarItem
+            Text="Mis ubicaciones"
+            x:Name="TbiLista"
+            Order="Secondary"
+            Clicked="TbiLista_Clicked"
+            />
+
+    </ContentPage.ToolbarItems>
+
+    <ScrollView>
+        <StackLayout Padding="10">
+            <Image Source="uth.png"></Image>
+
+            <Label Text="Guarda tu ubicación" FontSize="Title" Padding="30,10,30,10"  HorizontalTextAlignment="Center"/>
+            <Label Text="Latitud" FontSize="14"/>
+            
+            <Entry x:Name="TxtLatitud" Placeholder="Latitud actual" Keyboard="Numeric"/>
+            <Label Text="Logitud" FontSize="14"/>
+            
+            <Entry x:Name="TxtLongitud" Placeholder="Longitud actual"
+                   Keyboard="Numeric"/>
+            
+            <Label Text="Describa la ubicación casa"/>
+            <Editor  x:Name="TxtDescripcionUbicacion"  AutoSize="TextChanges"/>
+            
+            <Label Text="Dirección exacta casa" FontSize="14"/>
+            <Entry x:Name="TxtDescripcionCorta"/>
+
+            <StackLayout Orientation="Horizontal">
+                <Button x:Name="BtnGuardar" Clicked="BtnGuardar_Clicked" Text="Salvar Ubicación Casa"/>
+                <Button x:Name="BtnVerLista" Clicked="BtnVerLista_Clicked" Text="Lista Casas"/>
+            </StackLayout>
+
+            <StackLayout>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+                    <StackLayout>
+                        <Image x:Name="Photo" />
+                    </StackLayout>
+                    <Button
+            x:Name="TakePhoto"
+            Grid.Row="1"
+            Text="Tomar foto casa" />
+                </Grid>
+            </StackLayout>
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

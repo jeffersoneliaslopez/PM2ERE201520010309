@@ -1,0 +1,35 @@
+C:\Users\Jeff\Desktop\recuperacion\recuperacion\recuperacion\bin\Debug\netstandard2.0\recuperacion.deps.json
+C:\Users\Jeff\Desktop\recuperacion\recuperacion\recuperacion\bin\Debug\netstandard2.0\recuperacion.dll
+C:\Users\Jeff\Desktop\recuperacion\recuperacion\recuperacion\bin\Debug\netstandard2.0\ref\recuperacion.dll
+C:\Users\Jeff\Desktop\recuperacion\recuperacion\recuperacion\bin\Debug\netstandard2.0\recuperacion.pdb
+C:\Users\Jeff\Desktop\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\recuperacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\Desktop\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jeff\Desktop\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\ListaUbicaciones.xaml.g.cs
+C:\Users\Jeff\Desktop\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jeff\Desktop\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
+C:\Users\Jeff\Desktop\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\recuperacion.AssemblyInfoInputs.cache
+C:\Users\Jeff\Desktop\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\recuperacion.AssemblyInfo.cs
+C:\Users\Jeff\Desktop\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\recuperacion.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\Desktop\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jeff\Desktop\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\recuperacion.dll
+C:\Users\Jeff\Desktop\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\ref\recuperacion.dll
+C:\Users\Jeff\Desktop\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\recuperacion.pdb
+C:\Users\Jeff\Desktop\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\recuperacion.csproj.AssemblyReference.cache
+C:\Users\Jeff\Desktop\Mis Documentos\recuperacion\recuperacion\recuperacion\bin\Debug\netstandard2.0\recuperacion.deps.json
+C:\Users\Jeff\Desktop\Mis Documentos\recuperacion\recuperacion\recuperacion\bin\Debug\netstandard2.0\recuperacion.dll
+C:\Users\Jeff\Desktop\Mis Documentos\recuperacion\recuperacion\recuperacion\bin\Debug\netstandard2.0\ref\recuperacion.dll
+C:\Users\Jeff\Desktop\Mis Documentos\recuperacion\recuperacion\recuperacion\bin\Debug\netstandard2.0\recuperacion.pdb
+C:\Users\Jeff\Desktop\Mis Documentos\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\recuperacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\Desktop\Mis Documentos\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jeff\Desktop\Mis Documentos\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\ListaUbicaciones.xaml.g.cs
+C:\Users\Jeff\Desktop\Mis Documentos\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jeff\Desktop\Mis Documentos\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
+C:\Users\Jeff\Desktop\Mis Documentos\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\recuperacion.AssemblyInfoInputs.cache
+C:\Users\Jeff\Desktop\Mis Documentos\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\recuperacion.AssemblyInfo.cs
+C:\Users\Jeff\Desktop\Mis Documentos\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\recuperacion.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\Desktop\Mis Documentos\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jeff\Desktop\Mis Documentos\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\recuperacion.dll
+C:\Users\Jeff\Desktop\Mis Documentos\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\ref\recuperacion.dll
+C:\Users\Jeff\Desktop\Mis Documentos\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\recuperacion.pdb
+C:\Users\Jeff\Desktop\Mis Documentos\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\Jeff\Desktop\Mis Documentos\recuperacion\recuperacion\recuperacion\obj\Debug\netstandard2.0\recuperacion.csproj.AssemblyReference.cache

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="recuperacion.Login">
+    <ContentPage.Content>
+        
+        
+        <Grid Margin="16" Padding="40" VerticalOptions="Center">
+            
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <StackLayout Grid.Row="0">
+               
+                <Label Text="CONTROL DE CASAS" FontSize="Title" Padding="30,10,30,10" HorizontalTextAlignment="Center"/>
+                 <Image Source="uth.png"></Image>
+                <Label Text="USUARIO" FontSize="14"/>
+                <Entry Text="{Binding Username}" x:Name="txtUsername"
+                       Placeholder="Username" />
+
+                <Label Text="PASSWORD" FontSize="14"/>
+                <Entry Text="{Binding Password}" x:Name="txtPassword"
+                       Placeholder="Password"
+                       IsPassword="True" />
+                <Button Grid.Row="2" Text="Ingresar" Command="{Binding AuthenticateCommand}" Clicked="Button_Clicked" />
+            </StackLayout>
+
+           
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
