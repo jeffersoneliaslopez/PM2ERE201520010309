@@ -1,4 +1,4 @@
-Usuario: Admin
+Usuario: admin
 Password: 123
 
 Enlace del video: https://drive.google.com/file/d/1vqvJI-KUbvVOZppYnEo5gFxuQbXRJMCZ/view?usp=sharing
